@@ -1042,11 +1042,11 @@ margin: 2rem auto;
   margin: auto auto;
 }
 
-.text-light {
-  color: inherit;
+.text-dark {
+  color: black;
 }
 
-a.text-light:hover {
+a.text-dark:hover {
   color: #e2b646;
 }
 
