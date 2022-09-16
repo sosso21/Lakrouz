@@ -1021,12 +1021,10 @@ html {
   justify-content: space-between;
 }
 
-.justify-content-between>div {
+.justify-content-between > div {
   margin-top: 1rem;
   margin-bottom: 1rem;
-
 }
-
 
 .mx-2 {
   margin-right: 1rem;
