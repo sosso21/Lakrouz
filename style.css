@@ -1050,7 +1050,7 @@ a.text-dark:hover {
   color: #e2b646;
 }
 
-a.underline-none a.underline-none:hover {
+a.underline-none , a.underline-none:hover {
   text-decoration: none;
 }
 .fs-2 {
